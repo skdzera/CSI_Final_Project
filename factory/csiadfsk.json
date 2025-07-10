@@ -1,0 +1,9 @@
+{
+	"name": "csiadfsk",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "78cd0fc6-2979-48f8-9637-1ccd5efbbb0f",
+		"tenantId": "14c76e46-c388-48ae-a62f-57b126abe42a"
+	}
+}

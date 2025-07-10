@@ -1,0 +1,12 @@
+{
+	"name": "integrationRuntime2",
+	"properties": {
+		"type": "SelfHosted",
+		"typeProperties": {
+			"linkedInfo": {
+				"resourceId": "/subscriptions/3df2ff29-09fa-4393-b872-1121e7b6a3ce/resourcegroups/csi_sk/providers/Microsoft.DataFactory/factories/skadf096/integrationruntimes/IR-CSI6",
+				"authorizationType": "Rbac"
+			}
+		}
+	}
+}

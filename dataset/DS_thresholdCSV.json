@@ -1,0 +1,30 @@
+{
+	"name": "DS_thresholdCSV",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "csiadlslinked1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": "threshold.csv",
+				"folderPath": "threshold",
+				"fileSystem": "csiadlsproject"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": [
+			{
+				"name": "threshold",
+				"type": "String"
+			}
+		]
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
