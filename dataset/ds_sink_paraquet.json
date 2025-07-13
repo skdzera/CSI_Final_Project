@@ -1,0 +1,25 @@
+{
+	"name": "ds_sink_paraquet",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "csiadlslinked1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Parquet",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": {
+					"value": "joined_customer_data.parquet",
+					"type": "Expression"
+				},
+				"folderPath": "paraquet_output",
+				"fileSystem": "csiadlsproject"
+			},
+			"compressionCodec": "snappy"
+		},
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
