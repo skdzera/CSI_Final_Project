@@ -110,6 +110,9 @@ If record count > threshold:
 
 Copies data to ADLS in JSON format.
 
+<img width="1900" height="702" alt="image" src="https://github.com/user-attachments/assets/bb50f056-732c-499a-a62e-4964c61a10cb" />
+
+
 # 2️⃣ Dynamic Folder Structure Pipeline
 Every pipeline run stores output in:
 
@@ -119,12 +122,21 @@ Edit
 Customer/YYYY/MM/DD/
 Prevents overwriting and supports versioned data storage.
 
+<img width="1911" height="888" alt="2 3" src="https://github.com/user-attachments/assets/f6c36476-9df6-49f3-8416-221536c53c7d" />
+
+<img width="1917" height="1078" alt="2 4" src="https://github.com/user-attachments/assets/d831dfaa-5d19-423c-b715-b4f4b4fd1762" />
+
+
+
 # 3️⃣ Foreach_Example2 Pipeline
 Single Copy Activity extracts:
 
 Product data where ProductID > 100.
 
 Customer data where 100 < CustomerID < 1000.
+
+<img width="1907" height="912" alt="3 2" src="https://github.com/user-attachments/assets/7bb8489c-b21b-4aa1-80cc-abd80b85d02e" />
+
 
 # 4️⃣ SQL + CSV Join and Save as Parquet
 Reads Customer data from SQL to azure sql database
@@ -136,6 +148,12 @@ Joins both datasets.
 Filters where 1000 < CustomerID < 2000 and sorts in ascending order.
 
 Saves output as a Parquet file in ADLS.
+
+<img width="1901" height="1008" alt="4 1" src="https://github.com/user-attachments/assets/56714c77-8be5-4e69-886a-588d5260db9c" />
+
+<img width="1912" height="900" alt="4 2" src="https://github.com/user-attachments/assets/d6cce078-e17d-4944-be45-bcc2a77f6f2a" />
+
+<img width="1900" height="960" alt="4 3" src="https://github.com/user-attachments/assets/b7976107-5c2a-4501-acdc-b6955284390d" />
 
 
 Execution:
