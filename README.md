@@ -16,14 +16,14 @@ This hands-on adaptation allowed me to focus on core Data Engineering concepts s
 Completing this end-to-end project has enabled me to better understand the importance of modular pipeline design, data governance, and cloud-agnostic architectural patterns within the ETL lifecycle.
 
 # Technologies Used
- a. Azure Data Factory (ADF)
- b. Azure SQL Database
- c. Azure Data Lake Storage Gen2 (ADLS Gen2)
- d. Azure Blob Storage
- e. Data Flows
- f. SQL
- g. Microsoft SQL Server
- h. SSMS
+ Azure Data Factory (ADF),
+  Azure SQL Database,
+  Azure Data Lake Storage Gen2 (ADLS Gen2),
+  Azure Blob Storage,
+  Data Flows,
+  SQL,
+  Microsoft SQL Server,
+  SSMS
 
 # 📁 Repository Structure
 ```plaintext
