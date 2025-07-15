@@ -149,7 +149,7 @@ Filters where 1000 < CustomerID < 2000 and sorts in ascending order.
 
 Saves output as a Parquet file in ADLS.
 
-<img width="1901" height="1008" alt="4 1" src="https://github.com/user-attachments/assets/56714c77-8be5-4e69-886a-588d5260db9c" />
+<img width="949" height="1008" alt="4 1" src="https://github.com/user-attachments/assets/8053da7a-e25b-48c9-9492-8f1a7a9671ec" />
 
 <img width="1912" height="900" alt="4 2" src="https://github.com/user-attachments/assets/d6cce078-e17d-4944-be45-bcc2a77f6f2a" />
 
