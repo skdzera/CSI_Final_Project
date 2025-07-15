@@ -162,4 +162,24 @@ Run pipelines directly from ADF.
 
 Monitor via ADF Monitoring tab.
 
+📚 Learnings & Highlights
+1. Azure Data Factory pipelines enable end-to-end automation of SQL and file-based ETL processes.
+
+2. Dynamic folder structuring (Customer/Year/Month/Day) helps avoid overwriting and supports organized data storage in ADLS.
+
+3.  Threshold-based conditional copying provides control over when data extraction happens based on business rules.
+
+4. Foreach activity and parameterization simplify repetitive data ingestion using single, reusable pipeline components.
+
+5.  Data Flows in ADF allow complex transformations like SQL-to-CSV joins, sorting, filtering, and saving results in Parquet format for optimized storage.
+
+6. JSON & Parquet output formats ensure compatibility with downstream analytics and reporting solutions.
+
+7.  Secure integration with Azure SQL Database using managed identity and firewall configuration.
+
+8. Hands-on exposure to cloud-native ETL orchestration using Azure services and real-world SQL, CSV data sources.
+
+
+   
+
 
