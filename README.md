@@ -6,7 +6,7 @@ This project automates data extraction and transformation tasks using Azure Data
 
 
 # 📁 Repository Structure
-
+```plaintext
 ├── ARM_config/                # ARM templates for resource deployments
 ├── PNGS/                      # Pipeline diagrams and screenshots
 ├── dataflow/                  # Dataflow JSON files for transformation logic
@@ -23,7 +23,7 @@ This project automates data extraction and transformation tasks using Azure Data
 ├── publish_config.json        # Publishing configuration
 └── README.md                  # Project documentation
 
-
+```
 
 
 # 1️⃣ Threshold-Based Conditional Copy
