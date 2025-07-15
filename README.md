@@ -1,6 +1,7 @@
 # CSI_DE_Project
 
-Azure Data Integration & Pipeline Automation
+End-to-End Data Pipeline Automation Using Azure Data Factory (SQL + CSV to JSON/Parquet)
+
 # Project Overview
 I would like to express my sincere gratitude to CSI (Celebal Summer Internship) for providing me the opportunity to work on this comprehensive Azure Data Factory ETL Project as part of my internship. The mentorship, guidance, and exposure to real-world data engineering tasks have significantly deepened my technical skills and understanding of modern data pipelines.
 The original tasks were designed for implementation using Azure Data Factory with Azure SQL Database and Azure Data Lake Storage Gen2. However, due to environmental constraints during development, I simulated part of the process locally using SQL Server and Azure Storage Emulator, while preserving the project’s architectural integrity and objectives.
