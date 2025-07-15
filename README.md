@@ -2,7 +2,7 @@
 
 Azure Data Integration & Pipeline Automation
 # Project Overview
-This project automates data extraction and transformation tasks using Azure Data Factory (ADF), Azure SQL Database, and Azure Data Lake Storage (ADLS). It covers conditional data copying, dynamic folder structuring, optimized data processing, and data joining using SQL and CSV sources.
+This project automates data extraction and transformation tasks using Azure Data Factory (ADF), Azure SQL Database,Microsoft SQL Server and Azure Data Lake Storage (ADLS). It covers conditional data copying, dynamic folder structuring, optimized data processing, and data joining using SQL and CSV sources.
 
 
 # 📁 Repository Structure
