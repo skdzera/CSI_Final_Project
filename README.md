@@ -190,6 +190,6 @@ Monitor via ADF Monitoring tab.
 8. Hands-on exposure to cloud-native ETL orchestration using Azure services and real-world SQL, CSV data sources.
 
 
-for Contact email me at - gargasaksham2002@gmail.com
+For contact email me at - gargasaksham2002@gmail.com
 
 
