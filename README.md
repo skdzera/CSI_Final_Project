@@ -95,6 +95,11 @@ Completing this end-to-end project has enabled me to better understand the impor
     +-------------------------------------------------------------+
 
 
+# Datasets and Outputs
+
+<img width="1908" height="919" alt="image" src="https://github.com/user-attachments/assets/6ad5386a-9ef7-47c4-a60b-a398b2ec2f92" />
+
+
 
 # 1️⃣ Threshold-Based Conditional Copy
 Reads threshold from CSV (DS_thresholdCSV) in ADLS.
